@@ -1,0 +1,7 @@
+site_name: SmartBrains Wiki
+site_description: SmartBrains Documentation Website
+theme:
+    name: 'material'
+    favicon: 'images/favicon.ico'
+    extra_css:
+       - 'stylesheets/extra.css'
