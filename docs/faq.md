@@ -1,4 +1,4 @@
-# 6. FAQs
+# FAQs
 
 ## What license are these utilities provided under?
 

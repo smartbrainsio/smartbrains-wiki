@@ -1,3 +1,3 @@
-# 2. Cloud Tools
+# Cloud Tools
 
 Coming soon

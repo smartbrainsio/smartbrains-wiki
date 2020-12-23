@@ -1,3 +1,3 @@
-# 5. SecOps Tools
+# SecOps Tools
 
 Coming soon

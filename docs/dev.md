@@ -1,3 +1,3 @@
-# 3. Dev Tools
+# Dev Tools
 
 Coming soon

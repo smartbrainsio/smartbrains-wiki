@@ -1,3 +1,3 @@
-# 4. DevOps Tools
+# DevOps Tools
 
 Coming soon

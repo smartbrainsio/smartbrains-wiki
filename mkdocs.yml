@@ -1,7 +1,22 @@
 site_name: SmartBrains Wiki
 site_description: SmartBrains Documentation Website
 theme:
-    name: 'readthedocs'
+    name: 'material'
     favicon: 'images/favicon.ico'
     extra_css:
        - 'stylesheets/extra.css'
+nav:
+    - Home: 'index.md'
+    - Guides: 
+        Architecture: 'arch.md'
+        Cloud: 'cloud.md'
+        Development: 'dev.md'
+        DevOps: 'devops.md'
+        SecOps: 'secops.md'
+    - About:
+        FAQs: 'faq.md'
+markdown_extensions:
+    - smarty
+    - toc:
+        permalink: True
+    - sane_lists
