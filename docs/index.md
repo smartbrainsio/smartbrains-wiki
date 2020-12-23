@@ -1,3 +1,3 @@
-# Home
+# Welcome to SmartBrains.io 
 
-Hello World
+Featured App: http://app.smartbrains.io
