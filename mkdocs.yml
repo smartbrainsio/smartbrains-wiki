@@ -1,7 +1,7 @@
 site_name: SmartBrains Wiki
 site_description: SmartBrains Documentation Website
 theme:
-    name: 'mkdocs'
+    name: 'readthedocs'
     favicon: 'images/favicon.ico'
     extra_css:
        - 'stylesheets/extra.css'
