@@ -8,7 +8,7 @@ theme:
     extra_css: 
       - stylesheets/extra.css
     palette:
-      - primary: white
+      - primary: black
       - accent: red
 nav:
     - Home: 'index.md'
@@ -22,6 +22,7 @@ nav:
     - About:
         FAQs: 'faq.md'
 markdown_extensions:
+    - attr_list
     - smarty
     - toc:
         permalink: True

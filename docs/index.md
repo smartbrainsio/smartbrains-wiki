@@ -2,4 +2,6 @@
 
 ## Featured App
 
-The featured app and crown jewel of SmartBrains, [the RESTful webservices app smartbrains-web](https://github.com/jhurff/smartbrains-web), can be found by [following this link](http://app.smartbrains.io)
+[SmartBrains Web](http://app.smartbrains.io){: .md-button .md-button--accent }
+
+The featured app and crown jewel of SmartBrains is [the RESTful webservices app called smartbrains-web](https://github.com/jhurff/smartbrains-web).
