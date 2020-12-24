@@ -1,4 +1,4 @@
-# Welcome to SmartBrains.io 
+![SmartBrains.io](images/logo.jpg)
 
 ## Featured App
 
