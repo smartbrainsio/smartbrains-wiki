@@ -1,13 +1,19 @@
 site_name: SmartBrains Wiki
 site_description: SmartBrains Documentation Website
+repo_url: https://github.com/smartbrainsio/smartbrains-wiki
 theme:
     name: 'material'
+    logo: images/wikilogo.jpg
     favicon: 'images/favicon.ico'
-    extra_css:
-       - 'stylesheets/extra.css'
+    extra_css: 
+      - stylesheets/extra.css
+    palette:
+      - primary: white
+      - accent: red
 nav:
     - Home: 'index.md'
     - Guides: 
+        Analytics: 'analytics.md'
         Architecture: 'arch.md'
         Cloud: 'cloud.md'
         Development: 'dev.md'
