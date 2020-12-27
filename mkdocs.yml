@@ -12,7 +12,7 @@ theme:
       - accent: red
 nav:
     - Home: 'index.md'
-    - Guides: 
+    - Accelerators: 
         Analytics: 'analytics.md'
         Architecture: 'arch.md'
         Cloud: 'cloud.md'
