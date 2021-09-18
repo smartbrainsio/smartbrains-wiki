@@ -2,6 +2,10 @@
 
 ## Types of Analytics
 
+## Web Tracking
+
+Google Analytics?
+
 ## Descriptive
 
 Coming soon
