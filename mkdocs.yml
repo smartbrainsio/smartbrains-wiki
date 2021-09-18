@@ -1,6 +1,7 @@
 site_name: SmartBrains Wiki
 site_description: SmartBrains Documentation Website
 repo_url: https://github.com/smartbrainsio/smartbrains-wiki
+google_analytics: ['G-NQY603SV5K', 'wiki.smartbrains.io']
 theme:
     name: 'material'
     logo: images/wikilogo.jpg
