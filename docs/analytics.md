@@ -4,7 +4,7 @@
 
 ## Web Tracking
 
-Google Analytics?
+Google Analytics.  Is there anyone who doesn't use Google Analytics?
 
 ## Descriptive
 
