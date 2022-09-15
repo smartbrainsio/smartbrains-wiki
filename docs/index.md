@@ -1,5 +1,9 @@
 ![SmartBrains.io](images/logo.jpg)
 
+## We're Hiring!
+
+Check out our hot, new careers page!
+
 ## Featured App
 
 [SmartBrains Tech Debt Score](http://app.smartbrains.io){: .md-button .md-button--accent }
