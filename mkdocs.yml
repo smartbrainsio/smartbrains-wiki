@@ -21,6 +21,7 @@ nav:
         DevOps: 'devops.md'
         SecOps: 'secops.md'
     - About:
+        Careers: 'careers.md'
         FAQs: 'faq.md'
 markdown_extensions:
     - attr_list
