@@ -21,7 +21,7 @@ nav:
         DevOps: 'devops.md'
         SecOps: 'secops.md'
     - About:
-        Careers: 'careers.md'
+        Careers: 'https://j.brt.mv/ax.do?refresh=true&portalGK=38275'
         FAQs: 'faq.md'
 markdown_extensions:
     - attr_list
