@@ -17,8 +17,8 @@ The featured app of SmartBrains is [the multi-tier app called smartbrains-web](h
     apiUrl: 'https://jh.brightmove.com',
     theme: 'brightmove',
     position: 'bottom-right',
-    title: 'Wiz-Agent Assistant',
-    primaryColor: '#0066CC',
+    title: 'Wiz, AI Recruiter',
+    primaryColor: '#E51B22',
     accentColor: '#FF6600',
     showBranding: true
   });
