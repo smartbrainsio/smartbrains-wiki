@@ -20,8 +20,8 @@ nav:
         Development: 'dev.md'
         DevOps: 'devops.md'
         SecOps: 'secops.md'
+    - Careers: 'http://j.brt.mv/ATS/ax.do?portalGK=38156'
     - About:
-        Careers: 'http://j.brt.mv/ATS/ax.do?portalGK=38156'
         FAQs: 'faq.md'
 markdown_extensions:
     - attr_list
